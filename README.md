@@ -115,13 +115,6 @@ Reimbursement validation passed. Total: $110700
 
 ---
 
-## 🖼️ Screenshot
-<div align="center">
-    <img src="https://via.placeholder.com/800x400.png?text=Automation+Script+Running" alt="Script Screenshot">
-</div>
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
 
