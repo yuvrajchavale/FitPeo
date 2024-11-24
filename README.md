@@ -2,7 +2,7 @@
 # FitPeo Revenue Calculator Automation
 
 <div align="center">
-    <img src="https://fitpeo.com/assets/images/logo.png" alt="FitPeo Logo" width="200">
+    <img src="https://github.com/yuvrajchavale/FitPeo/blob/main/154388_8b1a872b040dcaa8_001full.jpg" alt="FitPeo Logo" >
 </div>
 
 ## 🌟 Overview
